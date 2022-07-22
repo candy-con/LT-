@@ -6,7 +6,7 @@
 
 ### 参考
 
-#### github cheat sheet(visu)
+#### github cheat sheet(visual)
 [[ver 1.2] Git でよく使われるコマンドにイラストによる説明を加えて1枚のチートシートにまとめてみた](https://qiita.com/kozzy/items/b42ba59a8bac190a16ab)
 
 
