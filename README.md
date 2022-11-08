@@ -14,6 +14,6 @@
 #### github cheat sheet(visual)
 [[ver 1.2] Git でよく使われるコマンドにイラストによる説明を加えて1枚のチートシートにまとめてみた](https://qiita.com/kozzy/items/b42ba59a8bac190a16ab)
 
-### Local から push する方法
+#### Local から push する方法
 https://qiita.com/A__Matsuda/items/f71a935612a55d6e674e
 
