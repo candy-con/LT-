@@ -9,6 +9,7 @@
 第1回LT大会 22/8/30<br>
 第2回LT大会 22/9/18<br>
 読本LT大会  22/10/20<br>
+第3回LT大会 22/11/24(開催予定）<br>
 ### 参考
 
 #### github cheat sheet(visual)
