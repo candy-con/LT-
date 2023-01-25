@@ -17,6 +17,9 @@ wataame.jobs@gmail.com (臨時メールアドレス）
 読本LT大会  22/10/20<br>
 第3回LT大会 22/11/24<br>
 第4回LT大会 22/12/22<br>
+
+### 容量が大きすぎてアップロードができなかったスライド等
+
 ### 参考
 
 #### github cheat sheet(visual)
