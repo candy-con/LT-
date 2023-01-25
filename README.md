@@ -19,6 +19,7 @@ wataame.jobs@gmail.com (臨時メールアドレス）
 第4回LT大会 22/12/22<br>
 
 ### 容量が大きすぎてアップロードができなかったスライド等
+宮城: https://drive.google.com/drive/folders/16yygNu2ItfMuKYy-El3KNziOco6e9uN4?usp=sharing
 
 ### 参考
 
